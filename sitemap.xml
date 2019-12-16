@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://nidomiro.github.io/KDataLoader/KDataLoader/0.0.2/index.html</loc>
-<lastmod>2019-12-08T12:11:53.670Z</lastmod>
+<loc>https://nidomiro.github.io/KDataLoader/KDataLoader/0.0.2/basic-usage.html</loc>
+<lastmod>2019-12-16T16:46:35.833Z</lastmod>
 </url>
 <url>
-<loc>https://nidomiro.github.io/KDataLoader/KDataLoader/0.0.1/index.html</loc>
-<lastmod>2019-12-08T12:11:53.670Z</lastmod>
+<loc>https://nidomiro.github.io/KDataLoader/KDataLoader/0.0.2/index.html</loc>
+<lastmod>2019-12-16T16:46:35.833Z</lastmod>
+</url>
+<url>
+<loc>https://nidomiro.github.io/KDataLoader/KDataLoader/0.0.2/install/gradle.html</loc>
+<lastmod>2019-12-16T16:46:35.833Z</lastmod>
+</url>
+<url>
+<loc>https://nidomiro.github.io/KDataLoader/KDataLoader/0.0.2/install/maven.html</loc>
+<lastmod>2019-12-16T16:46:35.833Z</lastmod>
 </url>
 </urlset>
